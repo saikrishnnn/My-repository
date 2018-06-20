@@ -1,3 +1,3 @@
 # My-repository
 sample reposioty
-this sample
+this is sample
